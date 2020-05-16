@@ -1,7 +1,14 @@
 
-Covid Map application built in using React mapbox & axios:
+# Covid Map application built in using React mapbox & axios:
 
-To run the porject:
+## Installation
+
+
+```
+clone the repo and use either npm to install the modules
+```
+
+### To run the porject:
 
 ### `yarn start`
 
