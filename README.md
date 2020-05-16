@@ -1,5 +1,5 @@
 
-Covid Map application  
+Covid Map application built in using React mapbox & axios:
 
 To run the porject:
 
