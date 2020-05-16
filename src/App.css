@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+body {
+  font-family: "Balsamiq Sans", cursive;
+}
+.circle {
+  color: #ff3939;
+  opacity: 0.6;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.marker-btn {
+  /* background: none; */
+  margin-left: -20px;
+  border: none;
+  cursor: pointer;
+}
+.popupInfo {
+  width: 100px;
+  height: 90px;
+  display: flex;
+  flex-direction: column;
+}
+.Countryflag {
+  width: 20px;
+  margin: 12px 40px 9px 40px;
+}
+.tests,
+.active,
+.recoverd,
+.deaths,
+.todayCases,
+.todayDeaths {
+  font-size: 13px;
+  margin: 0px 53px -4px 2px;
+}
