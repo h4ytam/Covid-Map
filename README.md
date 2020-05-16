@@ -5,7 +5,7 @@
 
 
 ```
-clone the repo and use either npm to install the modules
+clone the repo and use npm to install the modules
 ```
 
 ### To run the porject:
